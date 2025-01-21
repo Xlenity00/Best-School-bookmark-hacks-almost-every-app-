@@ -1,6 +1,7 @@
 # !Before you read download this file to export to your browser!
 # Download at google drive (https://drive.google.com/file/d/1qSHfrt6AgM-T0jVTpLF6w8xR9FiooxhL/view?usp=drive_link)
-<img width="960" alt="2025-01-21" src="https://github.com/user-attachments/assets/9279e188-c230-440a-b7f3-003ec210815e" />
+
+<img width="960" alt="2025-01-21" src="https://github.com/user-attachments/assets/1f98de62-06cc-47c6-9bce-eaa666c0c5e5" />
 
 # Open your bookmarks
 At the top right, select More More and then (Bookmarks and lists > Bookmark manager.)
