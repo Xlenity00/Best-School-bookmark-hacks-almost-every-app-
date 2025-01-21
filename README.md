@@ -2,7 +2,7 @@
 # Download at google drive (https://drive.google.com/file/d/1qSHfrt6AgM-T0jVTpLF6w8xR9FiooxhL/view?usp=drive_link)
 
 <img width="960" alt="2025-01-21" src="https://github.com/user-attachments/assets/1f98de62-06cc-47c6-9bce-eaa666c0c5e5" />
-# !also if you cant access file at school try your mobile 5g or at home!
+# also if you cant access file at school try your mobile 5g or at home
 
 # Open your bookmarks
 At the top right, select More More and then (Bookmarks and lists > Bookmark manager.)
@@ -10,7 +10,7 @@ If you already had bookmarks in Chrome, find a new folder named "Other bookmarks
 Tip: You can also reorder, edit, and delete your bookmarks in the side panel.
 ![How-to-Export-and-Save-Your-Chrome-Bookmarks_1_1-scaled](https://github.com/user-attachments/assets/70bd5523-8c30-46c8-b092-897d48cb5ff8)
 
-# How bookmarks are imported
+How bookmarks are imported
 If you didn't have any bookmarks in Chrome, the imported bookmarks appear in the bookmarks bar.
 
 If you already have bookmarks in Chrome, the imported bookmarks are added to the "Other bookmarks" folder at the end of the bookmarks bar.
