@@ -9,6 +9,7 @@ Tip: You can also reorder, edit, and delete your bookmarks in the side panel.
 If you didn't have any bookmarks in Chrome, the imported bookmarks appear in the bookmarks bar.
 
 If you already have bookmarks in Chrome, the imported bookmarks are added to the "Other bookmarks" folder at the end of the bookmarks bar.
+![How-to-Export-and-Save-Your-Chrome-Bookmarks_1_2-scaled](https://github.com/user-attachments/assets/3147de98-82b1-4f70-9f5b-c06996653c7e)
 
 Learn more about the bookmarks bar.
 
