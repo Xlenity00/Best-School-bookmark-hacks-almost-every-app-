@@ -3,6 +3,7 @@
 
 <img width="960" alt="2025-01-21" src="https://github.com/user-attachments/assets/1f98de62-06cc-47c6-9bce-eaa666c0c5e5" />
 # !also if you cant access file at school try your mobile 5g or at home!
+
 # Open your bookmarks
 At the top right, select More More and then (Bookmarks and lists > Bookmark manager.)
 If you already had bookmarks in Chrome, find a new folder named "Other bookmarks."
