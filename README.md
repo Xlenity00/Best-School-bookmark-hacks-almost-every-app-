@@ -1,4 +1,4 @@
-# !Before you read downlod thisfile toexport to your browser!
+# !Before you read downlaod this file to export to your browser!
 [Uploading EnvyByXlenity.html…](<!DOCTYPE NETSCAPE-Bookmark-file-1>
 <!-- This is an automatically generated file.
      It will be read and overwritten.
