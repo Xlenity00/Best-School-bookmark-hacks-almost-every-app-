@@ -1,6 +1,6 @@
 # How to install the bookmarks
 # Open your bookmarks
-At the top right, select More More and then # Bookmarks and lists > # Bookmark manager.
+At the top right, select More More and then (Bookmarks and lists > Bookmark manager.)
 If you already had bookmarks in Chrome, find a new folder named "Other bookmarks."
 Tip: You can also reorder, edit, and delete your bookmarks in the side panel.
 
