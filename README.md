@@ -10,6 +10,7 @@ If you didn't have any bookmarks in Chrome, the imported bookmarks appear in the
 
 If you already have bookmarks in Chrome, the imported bookmarks are added to the "Other bookmarks" folder at the end of the bookmarks bar.
 ![How-to-Export-and-Save-Your-Chrome-Bookmarks_1_2-scaled](https://github.com/user-attachments/assets/3147de98-82b1-4f70-9f5b-c06996653c7e)
+![How-to-Import-Chrome-Bookmarks_1_3-scaled](https://github.com/user-attachments/assets/447b66f7-72a1-4180-91b7-e5400eabf823)
 
 Learn more about the bookmarks bar.
 
@@ -21,3 +22,4 @@ At the top right, select More More and then Bookmarks and lists and then Bookmar
 At the top, select More More and then Export Bookmarks.
 Chrome exports your bookmarks as an HTML file. Use this file to import your bookmarks into another browser. 
 
+# Resources: https://www.hellotech.com/guide/for/how-to-export-save-import-bookmarks-in-chrome https://support.google.com/chrome/answer/96816?hl=en
