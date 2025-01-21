@@ -17,7 +17,8 @@ If you already have bookmarks in Chrome, the imported bookmarks are added to the
 ![How-to-Export-and-Save-Your-Chrome-Bookmarks_1_2-scaled](https://github.com/user-attachments/assets/3147de98-82b1-4f70-9f5b-c06996653c7e)
 ![How-to-Import-Chrome-Bookmarks_1_3-scaled](https://github.com/user-attachments/assets/447b66f7-72a1-4180-91b7-e5400eabf823)
 
-Learn more about the bookmarks bar.
+.<img width="960" alt="2025-01-21 (3)" src="https://github.com/user-attachments/assets/97cacab8-a7e5-4f12-874d-5f045871b267" />
+
 
 # Move or export bookmarks to another browser
 If you decide to use a different browser, you can take your Chrome bookmarks with you.
