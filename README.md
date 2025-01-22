@@ -1,4 +1,4 @@
-# !Before you read, download this file to export to your browser and make sureyouron chrome!
+# !Before you read, download this file to export to your browser and make sure your on chrome!
 # Download at google drive (https://drive.google.com/file/d/1qSHfrt6AgM-T0jVTpLF6w8xR9FiooxhL/view?usp=drive_link)
 
 <img width="960" alt="2025-01-21" src="https://github.com/user-attachments/assets/1f98de62-06cc-47c6-9bce-eaa666c0c5e5" />
